@@ -54,3 +54,6 @@ Checar los programas que tenemos instalados y desintalar los archivos que no nec
 
 LA PANTALLA SE APAGA DESPUES DE UN RATO DE TRABAJO 
 En las nuevas computadoras,el programa de ROM BIOS(Setup)presenta la posibilidad de apagar el monitor con el fin de conomizar el consumo de energia 
+
+QUE ES EL CERTIFICADO DIGITAL 
+Un certificado digital o certificado electroni
