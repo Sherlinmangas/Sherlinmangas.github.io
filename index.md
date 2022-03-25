@@ -41,4 +41,16 @@ COMPUTADORA INFECTADA CON VIRUS
 Los virus son un tipo de software que puede daña tu computadora y sistema relacionados 
 
 POR QUE FALLA LA PC 
-Cuando la pc esta dañad asu comportamiento se al tera y aparecen distas fallas que nos pueden alertar 
+Cuando la pc esta dañad asu comportamiento se al tera y aparecen distas fallas que nos pueden alertar por ello es importante saber indentificar los errores para eso se busca una forma rapida de una solucion no resulta extraña que con el tiempo y el uso continuado del ordenador deja de funcionar como lo hacia el primer dia tendriamos que llevarla con un profecional a que la chequen 
+
+PORQUE MI WINDOWS TARDA MUCHO EN INICIAR Y CERRAR 
+Esto se debe a que no hay optimizacion de programas de inicio cuando la limpieza la debemos hacer continuamente del sofware y tenmso que hacer reparacion o cambio de disco duro limpieza de sofware 
+
+PERDIDA DE INFORMACION Y ARCHIVOS DAÑADOS 
+Optiminizar disco duro y sistema operativo cambio de disco duro lipieza de sofware 
+
+LA PC DESMINUYO SU RENDIMIENTO 
+Checar los programas que tenemos instalados y desintalar los archivos que no necesitemos y asi ganamos velocidad y rendimiento, ya sea desfragmentanndo el disco o bien añadiendo memoria a la maquina 
+
+LA PANTALLA SE APAGA DESPUES DE UN RATO DE TRABAJO 
+En las nuevas computadoras,el programa de ROM BIOS(Setup)presenta la posibilidad de apagar el monitor con el fin de conomizar el consumo de energia 
